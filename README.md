@@ -2,8 +2,6 @@
 
 A comprehensive parking and vehicle management solution built with Node.js, Express, and PostgreSQL. This system provides role-based access for users to manage their vehicles and reservations, while giving employees powerful tools to oversee parking operations, issue fines, and generate revenue reports.
 
-![Vehicle Management System](vehicles.pgerd.png)
-
 ## ✨ Key Features
 
 ### 👤 User Features
@@ -155,11 +153,7 @@ We welcome contributions! Here's how you can help:
 - Update documentation for new features
 - Test thoroughly before submitting PRs
 
-## 📄 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with modern web technologies for optimal performance
 - Inspired by real-world parking management challenges
